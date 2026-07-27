@@ -1,0 +1,16 @@
+{
+  "name": "trakstorm-login",
+  "version": "1.0.0",
+  "description": "Trakstorm Login Page - React + Express",
+  "scripts": {
+    "install:all": "cd Backend && npm install && cd ../Frontend && npm install",
+    "dev:backend": "cd Backend && node server.js",
+    "dev:frontend": "cd Frontend && npx vite",
+    "dev": "concurrently \"npm run dev:backend\" \"npm run dev:frontend\"",
+    "build": "cd Frontend && npm run build",
+    "start": "cd Backend && NODE_ENV=production node server.js",
+    "deploy": "npm run build && npm run start"
+  },
+  "keywords": ["login", "authentication", "react", "express"],
+  "license": "MIT"
+}
