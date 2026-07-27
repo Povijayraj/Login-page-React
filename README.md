@@ -73,7 +73,7 @@ Login-page/
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/Povijayraj/React-Login-page.git
+git clone https://github.com/Povijayraj/Login-page-React.git
 ```
 
 ### 2. Navigate to the Project
