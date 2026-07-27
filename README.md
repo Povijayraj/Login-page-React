@@ -60,7 +60,6 @@ Login-page/
 │
 ├── backend/
 │   ├── server.js
-│   ├── routes/
 │   └── package.json
 │
 └── README.md
