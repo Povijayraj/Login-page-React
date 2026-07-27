@@ -134,7 +134,7 @@ Use the credentials configured in your backend mock data.
 Example:
 
 ```text
-Email: admin@nexus.com
+Email: admin@trakstorm.com
 Password: Pass@123
 ```
 
